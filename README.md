@@ -14,11 +14,15 @@
 	10、查看分支(包含远程分支)：git branch -a
 	11、切分支： git checkout <分支名>
 ## github 检索
-		1、location ： 地区
-		2、language ： 语言
-		3、stars:>500  星数大于500 
-		4、forks:>500  分支大于500
-		5、followers:>500 匹配超过500名开发者的开发者
-		6、jackal in:fullname 匹配用户名叫 jackal 的用户
-		7、Awesome + 关键字
+	1、location ： 地区
+	2、language ： 语言
+	3、stars:>500  星数大于500 
+	4、forks:>500  分支大于500
+	5、followers:>500 匹配超过500名开发者的开发者
+	6、jackal in:fullname 匹配用户名叫 jackal 的用户
+	7、Awesome + 关键字
+## README.md 文件编辑
+	1、#+" "+标题， 一个#为一级标题，以此类推
+	2、单行显示 使用一个tab
+### 测试
 	
